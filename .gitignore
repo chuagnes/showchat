@@ -1,0 +1,7 @@
+chatbot.py
+simple.py
+starterl.py
+secrets.toml
+.DS_Store
+.ipynb_checkpoints/
+virtualenvs.code-workspace
