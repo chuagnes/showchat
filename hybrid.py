@@ -6,7 +6,7 @@ import openai
 import streamlit as st
 import time
 
-openai.api_key = st.secrets["api_keys"]["OPENAI_API_KEY"]
+openai.api_key = st.secrets["OPENAI_API_KEY"]
 openai.api_key = openai.api_key
 
 from llama_index.core import (
